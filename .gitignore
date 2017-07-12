@@ -22,4 +22,5 @@ typings
 .idea
 npm-debug.log
 .eslintcache
+.editorconfig
 yarn.lock

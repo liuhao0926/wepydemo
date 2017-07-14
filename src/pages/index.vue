@@ -34,10 +34,12 @@
     </panel>
 
     <panel>
+      <navigator url="/pages/post/list" hover-class="navigator-hover">跳转到 post list 页</navigator>  
       <view class="title" slot="title">其它测试</view>
       <button @tap="toast" size="mini">第三方组件</button>
       <button @tap="communicate" size="mini">组件通信</button>
       <button @tap="tap" size="mini">混合TAP事件</button>
+      <navigator url="/pages/log" hover-class="navigator-hover">跳转到log页</navigator>
     </panel>
 
     <panel>
